@@ -1,4 +1,4 @@
-# data-structures-and-algorithms
+# search engine design
 Suppose you have a large corpus consisting of several books and documents. This could be a corpus of legal
 documents, novels, textbooks, research papers, etc. For this assignment, we have provided you with two
 different corpuses.
